@@ -1,0 +1,16 @@
+{
+  "name": "vite-plugin-tar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "vite": "^2.4.4"
+  },
+  "peerDependencies": {
+    "vite": "^2.4.4"
+  },
+  "dependencies": {
+    "tar": "^6.1.3"
+  }
+}
