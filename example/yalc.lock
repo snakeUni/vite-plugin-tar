@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "vite-plugin-tar": {
+      "signature": "75a7665768167a6b93145fa0df64e8c9",
+      "file": true
+    }
+  }
+}

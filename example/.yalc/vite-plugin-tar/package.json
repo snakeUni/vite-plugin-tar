@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-tar",
-  "version": "1.0.0",
+  "version": "1.0.0-75a76657",
   "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
@@ -9,14 +9,6 @@
   "files": [
     "lib"
   ],
-  "devDependencies": {
-    "@types/debug": "^4.1.7",
-    "@types/fs-extra": "^9.0.12",
-    "@types/tar": "^4.0.5",
-    "typescript": "^4.3.5",
-    "vite": "^2.4.4",
-    "yalc": "^1.0.0-pre.53"
-  },
   "peerDependencies": {
     "vite": "^2.4.4"
   },
